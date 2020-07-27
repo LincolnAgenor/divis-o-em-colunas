@@ -1,2 +1,2 @@
-# divis-o-em-colunas
-projeto feito durante a aula de dibisão de colunas
+# divisão-em-colunas
+projeto feito durante a aula de divisão de colunas
