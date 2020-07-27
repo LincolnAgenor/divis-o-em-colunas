@@ -1,0 +1,28 @@
+#img div div {
+    display: flex;
+    flex: 1;
+}
+body 
+{
+    background-color: #ffffff;
+}
+body {background-color: #16364c;}
+        .container { width: 1000px; margin: 0;}
+        .cards {display: flex;}
+        .cards .card {flex: 1; padding: 50px 20px; margin: px px; background-color: #ffffff; box-sizing: border-box;}
+        /*.cards {width: 100%; height: 180px;}*/
+        .cards .card p {color: #333;
+          font-style: italic;
+          font-size: 20px;  
+          margin-top: 0;
+        }
+         h1 {
+          color: #ffffff;
+          text-align: center;
+        }
+        p {
+          color: #ffffff;
+          text-align: center;
+          font-size: 25px;
+          margin-bottom: 0;
+        }
